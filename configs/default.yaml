@@ -1,0 +1,13 @@
+# Default DAG generation configuration
+
+# DAG structure
+n_nodes: 10
+max_fanin: 3
+
+# Motif probabilities
+p_collider: 0.4
+p_fork: 0.3
+p_chain: 0.3
+
+# SCM parameters
+noise_scale: 1.0
