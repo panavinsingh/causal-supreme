@@ -1,0 +1,17 @@
+name: causal-supreme
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - networkx
+  - pytest
+  - pip:
+    - pydantic
+    - pyyaml
+    - black==24.*
+    - ruff==0.4.*
