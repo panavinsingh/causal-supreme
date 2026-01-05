@@ -155,16 +155,16 @@ If you use this dataset, please cite:
 ```bibtex
 @dataset{causal_supreme_2026,
   title     = {Causal-Supreme: A Synthetic Benchmark for Causal Reasoning in LLMs},
-  author    = {Anonymous},
+  author    = {panavinsingh},
   year      = {2026},
   publisher = {GitHub},
   version   = {1.0.0},
-  url       = {https://github.com/anonymous/causal-supreme},
+  url       = {https://github.com/panavinsingh/causal-supreme},
   note      = {Dataset for evaluating Pearl's Ladder reasoning}
 }
 ```
 
-> 💡 **Tip:** After making the repo public, create a GitHub Release (v1.0.0) and link to Zenodo for a permanent DOI.
+
 
 ## License
 
